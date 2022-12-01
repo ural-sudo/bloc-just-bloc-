@@ -1,0 +1,38 @@
+
+[
+    {
+        "userId":1,
+        "first_name":"Malorie",
+        "email":"malori@json.com"
+    },
+    {
+        "userId":2,
+        "first_name":"George",
+        "email":"George@json.com"
+    },
+    {
+        "userId":3,
+        "first_name":"steve",
+        "email":"steve@json.com"
+    },
+    {
+        "userId":4,
+        "first_name":"hang",
+        "email":"hang@json.com"
+    },
+    {
+        "userId":5,
+        "first_name":"Eliii",
+        "email":"Eliii@json.com"
+    },
+    {
+        "userId":6,
+        "first_name":"ADAMS",
+        "email":"ADAMS@json.com"
+    },
+    {
+        "userId":7,
+        "first_name":"JENNİFER",
+        "email":"JENNİFER@json.com"
+    }
+]
